@@ -1,0 +1,13 @@
+C:\Users\Max\Desktop\Negativo\Negativo\obj\Debug\netcoreapp3.1\Negativo.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\Negativo\Negativo\obj\Debug\netcoreapp3.1\Negativo.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\Negativo\Negativo\obj\Debug\netcoreapp3.1\Negativo.AssemblyInfo.cs
+C:\Users\Max\Desktop\Negativo\Negativo\obj\Debug\netcoreapp3.1\Negativo.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\Negativo\Negativo\bin\Debug\netcoreapp3.1\Negativo.exe
+C:\Users\Max\Desktop\Negativo\Negativo\bin\Debug\netcoreapp3.1\Negativo.deps.json
+C:\Users\Max\Desktop\Negativo\Negativo\bin\Debug\netcoreapp3.1\Negativo.runtimeconfig.json
+C:\Users\Max\Desktop\Negativo\Negativo\bin\Debug\netcoreapp3.1\Negativo.runtimeconfig.dev.json
+C:\Users\Max\Desktop\Negativo\Negativo\bin\Debug\netcoreapp3.1\Negativo.dll
+C:\Users\Max\Desktop\Negativo\Negativo\bin\Debug\netcoreapp3.1\Negativo.pdb
+C:\Users\Max\Desktop\Negativo\Negativo\obj\Debug\netcoreapp3.1\Negativo.dll
+C:\Users\Max\Desktop\Negativo\Negativo\obj\Debug\netcoreapp3.1\Negativo.pdb
+C:\Users\Max\Desktop\Negativo\Negativo\obj\Debug\netcoreapp3.1\Negativo.genruntimeconfig.cache
